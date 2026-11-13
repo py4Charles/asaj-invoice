@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title id="page-title">Invoice | ASAJ Company Limited</title>
+  <style>
+    *, *::before, *::after {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: 14px;
+      color: #212529;
+      background: #e9ecef;
+      padding: 40px 20px;
+    }
+
+    .invoice-page {
+      max-width: 880px;
+      margin: 0 auto;
+      background: #ffffff;
+      padding: 44px 48px 52px;
+      box-shadow: 0 4px 18px rgba(0, 0, 0, 0.10);
+    }
+
+    /* ── PRINT BUTTON ── */
+    .print-bar {
+      max-width: 880px;
+      margin: 0 auto 14px;
+      display: flex;
+      justify-content: flex-end;
+    }
+
+    .btn-print {
+      background: #1a1a2e;
+      color: #fff;
+      border: none;
+      padding: 8px 18px;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      letter-spacing: 0.3px;
+    }
+
+    .btn-print:hover { background: #2d2d4e; }
+
+    /* ── TOP HEADER ── */
+    .invoice-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 28px;
+    }
+
+    .invoice-company h1 {
+      font-size: 21px;
+      font-weight: 700;
+      color: #1a1a2e;
+      letter-spacing: -0.3px;
+      margin-bottom: 5px;
+    }
+
+    .invoice-company p {
+      font-size: 12.5px;
+      color: #6c757d;
+    }
+
+    .invoice-badge {
+      border: 1px solid #ced4da;
+      padding: 7px 13px;
+      font-size: 12.5px;
+      font-weight: 600;
+      color: #343a40;
+      letter-spacing: 0.2px;
+      white-space: nowrap;
+    }
+
+    /* ── INFO GRID ── */
+    .info-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 14px;
+      margin-bottom: 30px;
+    }
+
+    .info-box {
+      background: #f8f9fa;
+      border: 1px solid #e9ecef;
+      padding: 15px 17px;
+    }
+
+    .info-box .info-label {
+      font-size: 9.5px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.9px;
+      color: #8a9099;
+      margin-bottom: 11px;
+    }
+
+    .info-box .info-row {
+      font-size: 13.5px;
+      color: #212529;
+      line-height: 1.7;
+    }
+
+    .info-box .info-row strong {
+      font-weight: 600;
+    }
+
+    .info-box .info-name {
+      font-size: 13.5px;
+      font-weight: 600;
+      color: #1a1a2e;
+      margin-bottom: 2px;
+    }
+
+    .status-badge {
+      font-weight: 600;
+    }
+
+    .status-badge.delivered  { color: #2e7d32; }
+    .status-badge.pending    { color: #e65100; }
+    .status-badge.processing { color: #1565c0; }
+    .status-badge.cancelled  { color: #b71c1c; }
+
+    /* ── ITEMS TABLE ── */
+    .items-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 26px;
+    }
+
+    .items-table thead tr {
+      border-top: 2px solid #dee2e6;
+      border-bottom: 2px solid #dee2e6;
+    }
+
+    .items-table thead th {
+      font-size: 12.5px;
+      font-weight: 700;
+      color: #343a40;
+      padding: 10px 10px;
+      text-align: left;
+    }
+
+    .items-table thead th:nth-child(n+2) {
+      text-align: right;
+    }
+
+    .items-table tbody tr {
+      border-bottom: 1px solid #f0f0f0;
+    }
+
+    .items-table tbody tr:last-child {
+      border-bottom: none;
+    }
+
+    .items-table tbody td {
+      font-size: 13.5px;
+      padding: 12px 10px;
+      color: #212529;
+    }
+
+    .items-table tbody td:nth-child(n+2) {
+      text-align: right;
+      color: #343a40;
+    }
+
+    /* ── TOTALS SECTION ── */
+    .totals-wrapper {
+      display: flex;
+      justify-content: flex-end;
+    }
+
+    .totals-block {
+      width: 320px;
+    }
+
+    .totals-block table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    .totals-block table td {
+      font-size: 13.5px;
+      padding: 5px 8px;
+      color: #343a40;
+    }
+
+    .totals-block table td:last-child {
+      text-align: right;
+      font-weight: 500;
+    }
+
+    .totals-block table .total-divider td {
+      border-top: 2px solid #343a40;
+      padding-top: 11px;
+      padding-bottom: 4px;
+      font-size: 15px;
+      font-weight: 700;
+      color: #1a1a2e;
+    }
+
+    /* ── FOOTER ── */
+    .invoice-footer {
+      margin-top: 36px;
+      padding-top: 18px;
+      border-top: 1px solid #e9ecef;
+      font-size: 12px;
+      color: #8a9099;
+      line-height: 1.6;
+    }
+
+    /* ── PRINT ── */
+    @media print {
+      body { background: #ffffff; padding: 0; }
+      .invoice-page { box-shadow: none; padding: 20px 24px 30px; }
+      .print-bar { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Print button (hidden on print) -->
+  <div class="print-bar">
+    <button class="btn-print" onclick="window.print()">Print / Save PDF</button>
+  </div>
+
+  <div class="invoice-page" id="invoice-root">
+    <!-- Rendered by renderInvoice() below -->
+  </div>
+
+  <script>
+    /**
+     * ─────────────────────────────────────────────────────────────
+     *  INVOICE DATA
+     *  To reuse this template, update the object below and reload.
+     *  All rendering is driven by this single data structure.
+     * ─────────────────────────────────────────────────────────────
+     */
+    const INVOICE = {
+      company: {
+        name: "ASAJ Company Limited",
+        subtitle: "Simple Commercial Invoice",
+      },
+
+      // Reference shown in the top-right badge (auto-generated from orderRef if omitted)
+      invoiceNumber: "INV-ORD-1772740748892",
+
+      transaction: {
+        reference: "ORD-1772740748892",
+        date: "05-Mar-2026",          // order / payment date (createdAt)
+        dispatchDate: "10-Mar-2026",  // ~5 business days after payment confirmed
+        deliveryDate: "17-Mar-2026",  // ~12 days door-to-port, export shipment
+      },
+
+      customer: {
+        name: "Pedro Lopes Alvarez",
+        email: "pedronalvarez11@hotmail.com",
+        phone: "0245124845",
+      },
+
+      delivery: {
+        // status: "Delivered" | "Processing" | "Pending" | "Cancelled"
+        status: "Delivered",
+        type: "Export shipment",
+      },
+
+      currency: "GHS",
+
+      /**
+       * Line items — real product catalog prices (per tonne, in GHS)
+       *
+       *   Cashew Nuts  — GHS 1,590 / tonne  (grades: W180 · W240 · W320)
+       *   Ginger       — GHS 3,926 / tonne  (dried, high oil content)
+       *   Soybean      — GHS   930 / tonne  (non-GMO, export grade)
+       *   Moringa      — GHS 23,800 / tonne (powder, certified organic)
+       *   Mango        — GHS   160 / kg     (fresh, export grade)
+       */
+      items: [
+        {
+          description: "Premium Raw Cashew Nuts – Grade W240",
+          spec: "Moisture ≤5% · Fresh & Natural · Export Quality",
+          qty: "2 tonnes",
+          unitPrice: 1590.00,
+          lineTotal: 3180.00,
+        },
+        {
+          description: "Dried Ginger Root (High Oil Content)",
+          spec: "Strong Aroma · Export Quality · Well Dried",
+          qty: "1 tonne",
+          unitPrice: 3926.00,
+          lineTotal: 3926.00,
+        },
+        {
+          description: "Non-GMO Soybeans – Export Grade",
+          spec: "High Protein · Well Cleaned · Non-GMO Certified",
+          qty: "2 tonnes",
+          unitPrice: 930.00,
+          lineTotal: 1860.00,
+        },
+      ],
+
+      fees: {
+        deliveryFee: 700.00,
+        serviceCharge: 334.00,
+      },
+
+      notes: "All goods inspected and certified for international export. Certificate of origin available on request.",
+    };
+
+    /* ─────────────────────────────────────────────────────────────
+     *  RENDER ENGINE  —  do not edit below unless changing layout
+     * ───────────────────────────────────────────────────────────── */
+    function fmt(n) {
+      return Number(n).toLocaleString("en-GH", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    }
+
+    function statusClass(s) {
+      return ({ Delivered: "delivered", Processing: "processing", Pending: "pending", Cancelled: "cancelled" })[s] || "pending";
+    }
+
+    function renderInvoice(data) {
+      const subtotal = data.items.reduce((s, i) => s + i.lineTotal, 0);
+      const total = subtotal + data.fees.deliveryFee + data.fees.serviceCharge;
+      const cur = data.currency;
+      const inv = data.invoiceNumber || ("INV-" + data.transaction.reference);
+
+      // Page title
+      document.getElementById("page-title").textContent =
+        "Invoice " + inv + " | " + data.company.name;
+
+      // Item rows HTML
+      const itemRows = data.items.map(it => `
+        <tr>
+          <td>
+            <div>${it.description}</div>
+            ${it.spec ? `<div style="font-size:11.5px;color:#8a9099;margin-top:2px;">${it.spec}</div>` : ""}
+          </td>
+          <td>${it.qty}</td>
+          <td>${fmt(it.unitPrice)}</td>
+          <td>${fmt(it.lineTotal)}</td>
+        </tr>`).join("");
+
+      document.getElementById("invoice-root").innerHTML = `
+
+        <!-- Header -->
+        <div class="invoice-header">
+          <div class="invoice-company">
+            <h1>${data.company.name} – Invoice</h1>
+            <p>${data.company.subtitle}</p>
+          </div>
+          <div class="invoice-badge">${inv}</div>
+        </div>
+
+        <!-- Info Grid -->
+        <div class="info-grid">
+
+          <div class="info-box">
+            <div class="info-label">Billed To</div>
+            <div class="info-name">${data.customer.name}</div>
+            <div class="info-row">${data.customer.email}</div>
+            <div class="info-row">${data.customer.phone}</div>
+          </div>
+
+          <div class="info-box">
+            <div class="info-label">Transaction</div>
+            <div class="info-row"><strong>Reference:</strong> ${data.transaction.reference}</div>
+            <div class="info-row"><strong>Invoice Date:</strong> ${data.transaction.date}</div>
+            <div class="info-row"><strong>Dispatch Date:</strong> ${data.transaction.dispatchDate}</div>
+          </div>
+
+          <div class="info-box">
+            <div class="info-label">Delivery Status</div>
+            <div class="info-row">
+              Status: <span class="status-badge ${statusClass(data.delivery.status)}">${data.delivery.status}</span>
+            </div>
+            <div class="info-row">Delivery Date: ${data.transaction.deliveryDate}</div>
+            <div class="info-row">Delivery Type: ${data.delivery.type}</div>
+          </div>
+
+        </div>
+
+        <!-- Items Table -->
+        <table class="items-table">
+          <thead>
+            <tr>
+              <th>Description</th>
+              <th>Qty</th>
+              <th>Unit Price (${cur})</th>
+              <th>Line Total (${cur})</th>
+            </tr>
+          </thead>
+          <tbody>
+            ${itemRows}
+          </tbody>
+        </table>
+
+        <!-- Totals -->
+        <div class="totals-wrapper">
+          <div class="totals-block">
+            <table>
+              <tbody>
+                <tr>
+                  <td>Products Subtotal</td>
+                  <td>${fmt(subtotal)}</td>
+                </tr>
+                <tr>
+                  <td>Delivery Fee</td>
+                  <td>${fmt(data.fees.deliveryFee)}</td>
+                </tr>
+                <tr>
+                  <td>Service Charge</td>
+                  <td>${fmt(data.fees.serviceCharge)}</td>
+                </tr>
+                <tr class="total-divider">
+                  <td>Invoice Total</td>
+                  <td>${fmt(total)} ${cur}</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        ${data.notes ? `
+        <div class="invoice-footer">
+          <strong>Notes:</strong> ${data.notes}
+        </div>` : ""}
+      `;
+    }
+
+    renderInvoice(INVOICE);
+  </script>
+
+</body>
+</html>
