@@ -82,7 +82,7 @@
     /* ── INFO GRID ── */
     .info-grid {
       display: grid;
-      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
       gap: 14px;
       margin-bottom: 30px;
     }
@@ -307,8 +307,7 @@
       ],
 
       fees: {
-        deliveryFee: 700.00,
-        serviceCharge: 334.00,
+        serviceCharge: 334.00
       },
 
       notes: "All goods inspected and certified for international export. Certificate of origin available on request.",
@@ -374,16 +373,6 @@
             <div class="info-row"><strong>Invoice Date:</strong> ${data.transaction.date}</div>
             <div class="info-row"><strong>Dispatch Date:</strong> ${data.transaction.dispatchDate}</div>
           </div>
-
-          <div class="info-box">
-            <div class="info-label">Delivery Status</div>
-            <div class="info-row">
-              Status: <span class="status-badge ${statusClass(data.delivery.status)}">${data.delivery.status}</span>
-            </div>
-            <div class="info-row">Delivery Date: ${data.transaction.deliveryDate}</div>
-            <div class="info-row">Delivery Type: ${data.delivery.type}</div>
-          </div>
-
         </div>
 
         <!-- Items Table -->
@@ -392,7 +381,6 @@
             <tr>
               <th>Description</th>
               <th>Qty</th>
-              <th>Unit Price (${cur})</th>
               <th>Line Total (${cur})</th>
             </tr>
           </thead>
@@ -409,10 +397,6 @@
                 <tr>
                   <td>Products Subtotal</td>
                   <td>${fmt(subtotal)}</td>
-                </tr>
-                <tr>
-                  <td>Delivery Fee</td>
-                  <td>${fmt(data.fees.deliveryFee)}</td>
                 </tr>
                 <tr>
                   <td>Service Charge</td>
