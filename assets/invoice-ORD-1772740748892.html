@@ -316,8 +316,18 @@
     /* ─────────────────────────────────────────────────────────────
      *  RENDER ENGINE  —  do not edit below unless changing layout
      * ───────────────────────────────────────────────────────────── */
+    // function fmt(n) {
+    //   return Number(n).toLocaleString("en-GH", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    // }
+  
     function fmt(n) {
-      return Number(n).toLocaleString("en-GH", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+      return Number(n).toLocaleString("en-GH", { 
+    style: "currency",
+    currency: "GHS",
+    currencyDisplay: "narrowSymbol",
+    minimumFractionDigits: 2,
+    maximumFractionDigits: 2,
+ });
     }
 
     function statusClass(s) {
@@ -326,7 +336,7 @@
 
     function renderInvoice(data) {
       const subtotal = data.items.reduce((s, i) => s + i.lineTotal, 0);
-      const total = subtotal + data.fees.deliveryFee + data.fees.serviceCharge;
+      const total = subtotal + data.fees.serviceCharge;
       const cur = data.currency;
       const inv = data.invoiceNumber || ("INV-" + data.transaction.reference);
 
@@ -403,7 +413,7 @@
                 </tr>
                 <tr class="total-divider">
                   <td>Invoice Total</td>
-                  <td>${fmt(total)} ${cur}</td>
+                  <td>${fmt(total)}</td>
                 </tr>
               </tbody>
             </table>
