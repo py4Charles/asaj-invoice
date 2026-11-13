@@ -246,7 +246,7 @@
     const INVOICE = {
       company: {
         name: "ASAJ Company Limited",
-        subtitle: "Simple Commercial Invoice",
+        subtitle: "ASAJ Commercial Invoice",
       },
 
       // Reference shown in the top-right badge (auto-generated from orderRef if omitted)
@@ -306,10 +306,6 @@
         },
       ].map(it => ({ ...it, lineTotal: +(it.qty * it.unitPrice).toFixed(2) })),
 
-      fees: {
-        serviceCharge: 334.00
-      },
-
       notes: "All goods inspected and certified for international export. Certificate of origin available on request.",
     };
 
@@ -330,13 +326,18 @@
  });
     }
 
+    function calcServiceCharge(lineTotal, rate = 0.10) {
+      return +(Number(lineTotal) * rate).toFixed(2);
+    }
+
     function statusClass(s) {
       return ({ Delivered: "delivered", Processing: "processing", Pending: "pending", Cancelled: "cancelled" })[s] || "pending";
     }
 
     function renderInvoice(data) {
       const subtotal = data.items.reduce((s, i) => s + i.lineTotal, 0);
-      const total = subtotal + data.fees.serviceCharge;
+      const serviceCharge = calcServiceCharge(subtotal);
+      const total = subtotal + serviceCharge;
       const cur = data.currency;
       const inv = data.invoiceNumber || ("INV-" + data.transaction.reference);
 
@@ -409,7 +410,7 @@
                 </tr>
                 <tr>
                   <td>Service Charge</td>
-                  <td>${fmt(data.fees.serviceCharge)}</td>
+                  <td>${fmt(serviceCharge)}</td>
                 </tr>
                 <tr class="total-divider">
                   <td>Invoice Total</td>
