@@ -260,8 +260,8 @@
       },
 
       customer: {
-        name: "Pedro Lopes Alvarez",
-        email: "pedronalvarez11@hotmail.com",
+        name: "Kofi Oteng",
+        email: "kofioteng45@gmail.com",
         phone: "0245124845",
       },
 
@@ -285,24 +285,21 @@
       items: [
         {
           description: "Premium Raw Cashew Nuts – Grade W240",
-          spec: "Moisture ≤5% · Fresh & Natural · Export Quality",
           qty: 0.2,
           unit: "kg",
           unitPrice: 159.00,
         },
         {
           description: "Dried Ginger Root (High Oil Content)",
-          spec: "Strong Aroma · Export Quality · Well Dried",
           qty: 0.5,
           unit: "kg",
-          unitPrice: 3926.00,
+          unitPrice: 326.00,
         },
         {
           description: "Non-GMO Soybeans – Export Grade",
-          spec: "High Protein · Well Cleaned · Non-GMO Certified",
           qty: 0.45,
           unit: "kg",
-          unitPrice: 930.00,
+          unitPrice: 340.00,
         },
       ].map(it => ({ ...it, lineTotal: +(it.qty * it.unitPrice).toFixed(2) })),
 
@@ -381,7 +378,6 @@
             <div class="info-label">Transaction</div>
             <div class="info-row"><strong>Reference:</strong> ${data.transaction.reference}</div>
             <div class="info-row"><strong>Invoice Date:</strong> ${data.transaction.date}</div>
-            <div class="info-row"><strong>Dispatch Date:</strong> ${data.transaction.dispatchDate}</div>
           </div>
         </div>
 
