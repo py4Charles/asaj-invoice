@@ -1,0 +1,3338 @@
+[
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-1938855491696",
+    "transaction": {
+      "reference": "ORD-1938855491696",
+      "date": "07-Jan-2026",
+      "dispatchDate": "12-Jan-2026",
+      "deliveryDate": "19-Jan-2026"
+    },
+    "customer": {
+      "name": "Serwaa Addo",
+      "email": "serwaaaddo76@gmail.com",
+      "phone": "0200398139"
+    },
+    "delivery": {
+      "status": "Processing",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.29,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 6.9,
+        "allocatedWeightKg": 5.947
+      },
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.52,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 169.52,
+        "allocatedWeightKg": 5.947
+      },
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.71,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 241.4,
+        "allocatedWeightKg": 5.947
+      },
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.23,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 36.8,
+        "allocatedWeightKg": 5.947
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23786.0,
+      "totalWeightKg": 23.786
+    },
+    "_products": [
+      "Moringa",
+      "Ginger",
+      "Soybean",
+      "Mango"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-9270884604699",
+    "transaction": {
+      "reference": "ORD-9270884604699",
+      "date": "27-Jan-2026",
+      "dispatchDate": "01-Feb-2026",
+      "deliveryDate": "08-Feb-2026"
+    },
+    "customer": {
+      "name": "Araba Quaye",
+      "email": "arabaquaye61@gmail.com",
+      "phone": "0536763402"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.68,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 221.68,
+        "allocatedWeightKg": 11.86
+      },
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.77,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 261.8,
+        "allocatedWeightKg": 11.86
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23720.0,
+      "totalWeightKg": 23.72
+    },
+    "_products": [
+      "Ginger",
+      "Soybean"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-3488725197750",
+    "transaction": {
+      "reference": "ORD-3488725197750",
+      "date": "04-Feb-2026",
+      "dispatchDate": "09-Feb-2026",
+      "deliveryDate": "16-Feb-2026"
+    },
+    "customer": {
+      "name": "Yaa Oteng",
+      "email": "yaaoteng55@gmail.com",
+      "phone": "0206353307"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.89,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 141.51,
+        "allocatedWeightKg": 5.947
+      },
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.41,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 9.76,
+        "allocatedWeightKg": 5.947
+      },
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.23,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 78.2,
+        "allocatedWeightKg": 5.947
+      },
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.41,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 65.6,
+        "allocatedWeightKg": 5.947
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23786.0,
+      "totalWeightKg": 23.786
+    },
+    "_products": [
+      "Cashew nuts",
+      "Moringa",
+      "Soybean",
+      "Mango"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-3545858198867",
+    "transaction": {
+      "reference": "ORD-3545858198867",
+      "date": "23-Feb-2026",
+      "dispatchDate": "28-Feb-2026",
+      "deliveryDate": "07-Mar-2026"
+    },
+    "customer": {
+      "name": "Naa Boateng",
+      "email": "naaboateng89@gmail.com",
+      "phone": "0548907397"
+    },
+    "delivery": {
+      "status": "Processing",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.73,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 237.98,
+        "allocatedWeightKg": 7.896
+      },
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.58,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 197.2,
+        "allocatedWeightKg": 7.896
+      },
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.61,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 97.6,
+        "allocatedWeightKg": 7.896
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23687.0,
+      "totalWeightKg": 23.687
+    },
+    "_products": [
+      "Ginger",
+      "Soybean",
+      "Mango"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-7079835054205",
+    "transaction": {
+      "reference": "ORD-7079835054205",
+      "date": "02-Feb-2026",
+      "dispatchDate": "07-Feb-2026",
+      "deliveryDate": "14-Feb-2026"
+    },
+    "customer": {
+      "name": "Afia Sarpong",
+      "email": "afiasarpong50@gmail.com",
+      "phone": "0204335494"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.72,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 115.2,
+        "allocatedWeightKg": 7.844
+      },
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.58,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 197.2,
+        "allocatedWeightKg": 7.844
+      },
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.7,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 228.2,
+        "allocatedWeightKg": 7.844
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23532.0,
+      "totalWeightKg": 23.532
+    },
+    "_products": [
+      "Mango",
+      "Soybean",
+      "Ginger"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-4655861523824",
+    "transaction": {
+      "reference": "ORD-4655861523824",
+      "date": "26-Feb-2026",
+      "dispatchDate": "03-Mar-2026",
+      "deliveryDate": "10-Mar-2026"
+    },
+    "customer": {
+      "name": "Nana Boadi",
+      "email": "nanaboadi3@gmail.com",
+      "phone": "0205814765"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.58,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 92.8,
+        "allocatedWeightKg": 7.94
+      },
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.32,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 108.8,
+        "allocatedWeightKg": 7.94
+      },
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.45,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 71.55,
+        "allocatedWeightKg": 7.94
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23819.0,
+      "totalWeightKg": 23.819
+    },
+    "_products": [
+      "Mango",
+      "Soybean",
+      "Cashew nuts"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-1261137563471",
+    "transaction": {
+      "reference": "ORD-1261137563471",
+      "date": "12-Feb-2026",
+      "dispatchDate": "17-Feb-2026",
+      "deliveryDate": "24-Feb-2026"
+    },
+    "customer": {
+      "name": "Araba Lartey",
+      "email": "arabalartey43@gmail.com",
+      "phone": "0543168501"
+    },
+    "delivery": {
+      "status": "Pending",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.49,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 166.6,
+        "allocatedWeightKg": 11.9
+      },
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.87,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 139.2,
+        "allocatedWeightKg": 11.9
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23801.0,
+      "totalWeightKg": 23.801
+    },
+    "_products": [
+      "Soybean",
+      "Mango"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-1762622283744",
+    "transaction": {
+      "reference": "ORD-1762622283744",
+      "date": "27-Feb-2026",
+      "dispatchDate": "04-Mar-2026",
+      "deliveryDate": "11-Mar-2026"
+    },
+    "customer": {
+      "name": "Efua Antwi",
+      "email": "efuaantwi8@gmail.com",
+      "phone": "0590974883"
+    },
+    "delivery": {
+      "status": "Pending",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.73,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 116.8,
+        "allocatedWeightKg": 5.955
+      },
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.33,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 107.58,
+        "allocatedWeightKg": 5.955
+      },
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.68,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 231.2,
+        "allocatedWeightKg": 5.955
+      },
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.27,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 6.43,
+        "allocatedWeightKg": 5.955
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23819.0,
+      "totalWeightKg": 23.819
+    },
+    "_products": [
+      "Mango",
+      "Ginger",
+      "Soybean",
+      "Moringa"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-5551711146701",
+    "transaction": {
+      "reference": "ORD-5551711146701",
+      "date": "22-Jan-2026",
+      "dispatchDate": "27-Jan-2026",
+      "deliveryDate": "03-Feb-2026"
+    },
+    "customer": {
+      "name": "Kwesi Nyarko",
+      "email": "kwesinyarko31@gmail.com",
+      "phone": "0252817840"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.71,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 113.6,
+        "allocatedWeightKg": 11.86
+      },
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.21,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 5.0,
+        "allocatedWeightKg": 11.86
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23720.0,
+      "totalWeightKg": 23.72
+    },
+    "_products": [
+      "Mango",
+      "Moringa"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-9452226696040",
+    "transaction": {
+      "reference": "ORD-9452226696040",
+      "date": "11-Jan-2026",
+      "dispatchDate": "16-Jan-2026",
+      "deliveryDate": "23-Jan-2026"
+    },
+    "customer": {
+      "name": "Adjoa Danso",
+      "email": "adjoadanso10@gmail.com",
+      "phone": "0201089910"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.89,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 141.51,
+        "allocatedWeightKg": 11.933
+      },
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.22,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 5.24,
+        "allocatedWeightKg": 11.933
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23866.0,
+      "totalWeightKg": 23.866
+    },
+    "_products": [
+      "Cashew nuts",
+      "Moringa"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-3287842941880",
+    "transaction": {
+      "reference": "ORD-3287842941880",
+      "date": "24-Jan-2026",
+      "dispatchDate": "29-Jan-2026",
+      "deliveryDate": "05-Feb-2026"
+    },
+    "customer": {
+      "name": "Naa Annan",
+      "email": "naaannan71@gmail.com",
+      "phone": "0597571627"
+    },
+    "delivery": {
+      "status": "Processing",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.85,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 289.0,
+        "allocatedWeightKg": 11.945
+      },
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.4,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 9.52,
+        "allocatedWeightKg": 11.945
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23890.0,
+      "totalWeightKg": 23.89
+    },
+    "_products": [
+      "Soybean",
+      "Moringa"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-5417927585310",
+    "transaction": {
+      "reference": "ORD-5417927585310",
+      "date": "19-Feb-2026",
+      "dispatchDate": "24-Feb-2026",
+      "deliveryDate": "03-Mar-2026"
+    },
+    "customer": {
+      "name": "Ama Oppong",
+      "email": "amaoppong42@gmail.com",
+      "phone": "0200469753"
+    },
+    "delivery": {
+      "status": "Processing",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.76,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 247.76,
+        "allocatedWeightKg": 7.896
+      },
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.66,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 224.4,
+        "allocatedWeightKg": 7.896
+      },
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.47,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 74.73,
+        "allocatedWeightKg": 7.896
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23687.0,
+      "totalWeightKg": 23.687
+    },
+    "_products": [
+      "Ginger",
+      "Soybean",
+      "Cashew nuts"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-8030352115596",
+    "transaction": {
+      "reference": "ORD-8030352115596",
+      "date": "07-Feb-2026",
+      "dispatchDate": "12-Feb-2026",
+      "deliveryDate": "19-Feb-2026"
+    },
+    "customer": {
+      "name": "Adjoa Appiah",
+      "email": "adjoaappiah85@gmail.com",
+      "phone": "0594618361"
+    },
+    "delivery": {
+      "status": "Cancelled",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.88,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 299.2,
+        "allocatedWeightKg": 7.908
+      },
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.57,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 185.82,
+        "allocatedWeightKg": 7.908
+      },
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.71,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 16.9,
+        "allocatedWeightKg": 7.908
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23723.0,
+      "totalWeightKg": 23.723
+    },
+    "_products": [
+      "Soybean",
+      "Ginger",
+      "Moringa"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-5943455032392",
+    "transaction": {
+      "reference": "ORD-5943455032392",
+      "date": "08-Jan-2026",
+      "dispatchDate": "13-Jan-2026",
+      "deliveryDate": "20-Jan-2026"
+    },
+    "customer": {
+      "name": "Akua Antwi",
+      "email": "akuaantwi97@gmail.com",
+      "phone": "0546815099"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.46,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 73.14,
+        "allocatedWeightKg": 5.947
+      },
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.46,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 156.4,
+        "allocatedWeightKg": 5.947
+      },
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.82,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 131.2,
+        "allocatedWeightKg": 5.947
+      },
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.82,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 19.52,
+        "allocatedWeightKg": 5.947
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23786.0,
+      "totalWeightKg": 23.786
+    },
+    "_products": [
+      "Cashew nuts",
+      "Soybean",
+      "Mango",
+      "Moringa"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-6780532685739",
+    "transaction": {
+      "reference": "ORD-6780532685739",
+      "date": "06-Jan-2026",
+      "dispatchDate": "11-Jan-2026",
+      "deliveryDate": "18-Jan-2026"
+    },
+    "customer": {
+      "name": "Kwame Danso",
+      "email": "kwamedanso30@gmail.com",
+      "phone": "0599768058"
+    },
+    "delivery": {
+      "status": "Pending",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.6,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 14.28,
+        "allocatedWeightKg": 5.943
+      },
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.87,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 138.33,
+        "allocatedWeightKg": 5.943
+      },
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.25,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 40.0,
+        "allocatedWeightKg": 5.943
+      },
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.28,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 91.28,
+        "allocatedWeightKg": 5.943
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23771.0,
+      "totalWeightKg": 23.771
+    },
+    "_products": [
+      "Moringa",
+      "Cashew nuts",
+      "Mango",
+      "Ginger"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-2421802607536",
+    "transaction": {
+      "reference": "ORD-2421802607536",
+      "date": "17-Feb-2026",
+      "dispatchDate": "22-Feb-2026",
+      "deliveryDate": "01-Mar-2026"
+    },
+    "customer": {
+      "name": "Nana Addo",
+      "email": "nanaaddo31@gmail.com",
+      "phone": "0544511256"
+    },
+    "delivery": {
+      "status": "Processing",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.83,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 270.58,
+        "allocatedWeightKg": 7.94
+      },
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.44,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 10.47,
+        "allocatedWeightKg": 7.94
+      },
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.4,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 64.0,
+        "allocatedWeightKg": 7.94
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23819.0,
+      "totalWeightKg": 23.819
+    },
+    "_products": [
+      "Ginger",
+      "Moringa",
+      "Mango"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-7177700194022",
+    "transaction": {
+      "reference": "ORD-7177700194022",
+      "date": "08-Feb-2026",
+      "dispatchDate": "13-Feb-2026",
+      "deliveryDate": "20-Feb-2026"
+    },
+    "customer": {
+      "name": "Akosua Ofori",
+      "email": "akosuaofori88@gmail.com",
+      "phone": "0538697548"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.2,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 32.0,
+        "allocatedWeightKg": 5.963
+      },
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.83,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 282.2,
+        "allocatedWeightKg": 5.963
+      },
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.22,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 71.72,
+        "allocatedWeightKg": 5.963
+      },
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.87,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 138.33,
+        "allocatedWeightKg": 5.963
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23854.0,
+      "totalWeightKg": 23.854
+    },
+    "_products": [
+      "Mango",
+      "Soybean",
+      "Ginger",
+      "Cashew nuts"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-4132848174646",
+    "transaction": {
+      "reference": "ORD-4132848174646",
+      "date": "09-Jan-2026",
+      "dispatchDate": "14-Jan-2026",
+      "deliveryDate": "21-Jan-2026"
+    },
+    "customer": {
+      "name": "Serwaa Lartey",
+      "email": "serwaalartey75@gmail.com",
+      "phone": "0250636807"
+    },
+    "delivery": {
+      "status": "Processing",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.3,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 7.14,
+        "allocatedWeightKg": 7.872
+      },
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.39,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 127.14,
+        "allocatedWeightKg": 7.872
+      },
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.33,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 52.8,
+        "allocatedWeightKg": 7.872
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23615.0,
+      "totalWeightKg": 23.615
+    },
+    "_products": [
+      "Moringa",
+      "Ginger",
+      "Mango"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-3459064771907",
+    "transaction": {
+      "reference": "ORD-3459064771907",
+      "date": "22-Feb-2026",
+      "dispatchDate": "27-Feb-2026",
+      "deliveryDate": "06-Mar-2026"
+    },
+    "customer": {
+      "name": "Esi Annan",
+      "email": "esiannan33@gmail.com",
+      "phone": "0590721873"
+    },
+    "delivery": {
+      "status": "Pending",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.34,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 115.6,
+        "allocatedWeightKg": 7.92
+      },
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.53,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 12.61,
+        "allocatedWeightKg": 7.92
+      },
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.63,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 100.17,
+        "allocatedWeightKg": 7.92
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23759.0,
+      "totalWeightKg": 23.759
+    },
+    "_products": [
+      "Soybean",
+      "Moringa",
+      "Cashew nuts"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-7441119102549",
+    "transaction": {
+      "reference": "ORD-7441119102549",
+      "date": "07-Jan-2026",
+      "dispatchDate": "12-Jan-2026",
+      "deliveryDate": "19-Jan-2026"
+    },
+    "customer": {
+      "name": "Adjoa Oppong",
+      "email": "adjoaoppong34@gmail.com",
+      "phone": "0248539352"
+    },
+    "delivery": {
+      "status": "Pending",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.36,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 122.4,
+        "allocatedWeightKg": 7.951
+      },
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.86,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 136.74,
+        "allocatedWeightKg": 7.951
+      },
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.83,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 19.75,
+        "allocatedWeightKg": 7.951
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23854.0,
+      "totalWeightKg": 23.854
+    },
+    "_products": [
+      "Soybean",
+      "Cashew nuts",
+      "Moringa"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-8297445662454",
+    "transaction": {
+      "reference": "ORD-8297445662454",
+      "date": "03-Feb-2026",
+      "dispatchDate": "08-Feb-2026",
+      "deliveryDate": "15-Feb-2026"
+    },
+    "customer": {
+      "name": "Akua Frimpong",
+      "email": "akuafrimpong96@gmail.com",
+      "phone": "0548092217"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.67,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 106.53,
+        "allocatedWeightKg": 5.943
+      },
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.85,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 20.23,
+        "allocatedWeightKg": 5.943
+      },
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.33,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 107.58,
+        "allocatedWeightKg": 5.943
+      },
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.53,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 180.2,
+        "allocatedWeightKg": 5.943
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23771.0,
+      "totalWeightKg": 23.771
+    },
+    "_products": [
+      "Cashew nuts",
+      "Moringa",
+      "Ginger",
+      "Soybean"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-8950025618193",
+    "transaction": {
+      "reference": "ORD-8950025618193",
+      "date": "03-Feb-2026",
+      "dispatchDate": "08-Feb-2026",
+      "deliveryDate": "15-Feb-2026"
+    },
+    "customer": {
+      "name": "Esi Oteng",
+      "email": "esioteng42@gmail.com",
+      "phone": "0203737106"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.55,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 88.0,
+        "allocatedWeightKg": 7.959
+      },
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.57,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 193.8,
+        "allocatedWeightKg": 7.959
+      },
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.43,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 68.37,
+        "allocatedWeightKg": 7.959
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23878.0,
+      "totalWeightKg": 23.878
+    },
+    "_products": [
+      "Mango",
+      "Soybean",
+      "Cashew nuts"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-7677627309727",
+    "transaction": {
+      "reference": "ORD-7677627309727",
+      "date": "02-Jan-2026",
+      "dispatchDate": "07-Jan-2026",
+      "deliveryDate": "14-Jan-2026"
+    },
+    "customer": {
+      "name": "Ama Nyarko",
+      "email": "amanyarko48@gmail.com",
+      "phone": "0595506278"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.66,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 215.16,
+        "allocatedWeightKg": 11.86
+      },
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.83,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 282.2,
+        "allocatedWeightKg": 11.86
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23720.0,
+      "totalWeightKg": 23.72
+    },
+    "_products": [
+      "Ginger",
+      "Soybean"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-7805179111695",
+    "transaction": {
+      "reference": "ORD-7805179111695",
+      "date": "19-Feb-2026",
+      "dispatchDate": "24-Feb-2026",
+      "deliveryDate": "03-Mar-2026"
+    },
+    "customer": {
+      "name": "Efua Asante",
+      "email": "efuaasante53@gmail.com",
+      "phone": "0591920751"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.28,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 44.52,
+        "allocatedWeightKg": 11.766
+      },
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.5,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 170.0,
+        "allocatedWeightKg": 11.766
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23532.0,
+      "totalWeightKg": 23.532
+    },
+    "_products": [
+      "Cashew nuts",
+      "Soybean"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-5609859488284",
+    "transaction": {
+      "reference": "ORD-5609859488284",
+      "date": "24-Jan-2026",
+      "dispatchDate": "29-Jan-2026",
+      "deliveryDate": "05-Feb-2026"
+    },
+    "customer": {
+      "name": "Adwoa Sarpong",
+      "email": "adwoasarpong71@gmail.com",
+      "phone": "0598572077"
+    },
+    "delivery": {
+      "status": "Pending",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.66,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 215.16,
+        "allocatedWeightKg": 7.961
+      },
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.72,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 115.2,
+        "allocatedWeightKg": 7.961
+      },
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.47,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 159.8,
+        "allocatedWeightKg": 7.961
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23884.0,
+      "totalWeightKg": 23.884
+    },
+    "_products": [
+      "Ginger",
+      "Mango",
+      "Soybean"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-5068658567873",
+    "transaction": {
+      "reference": "ORD-5068658567873",
+      "date": "29-Jan-2026",
+      "dispatchDate": "03-Feb-2026",
+      "deliveryDate": "10-Feb-2026"
+    },
+    "customer": {
+      "name": "Kwaku Acheampong",
+      "email": "kwakuacheampong28@gmail.com",
+      "phone": "0542292485"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.5,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 11.9,
+        "allocatedWeightKg": 5.93
+      },
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.32,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 104.32,
+        "allocatedWeightKg": 5.93
+      },
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.36,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 57.24,
+        "allocatedWeightKg": 5.93
+      },
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.4,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 136.0,
+        "allocatedWeightKg": 5.93
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23720.0,
+      "totalWeightKg": 23.72
+    },
+    "_products": [
+      "Moringa",
+      "Ginger",
+      "Cashew nuts",
+      "Soybean"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-3658220215591",
+    "transaction": {
+      "reference": "ORD-3658220215591",
+      "date": "28-Feb-2026",
+      "dispatchDate": "05-Mar-2026",
+      "deliveryDate": "12-Mar-2026"
+    },
+    "customer": {
+      "name": "Kofi Appiah",
+      "email": "kofiappiah62@gmail.com",
+      "phone": "0204554013"
+    },
+    "delivery": {
+      "status": "Pending",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.65,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 221.0,
+        "allocatedWeightKg": 0.597
+      },
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.83,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 132.8,
+        "allocatedWeightKg": 0.597
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 1194.0,
+      "totalWeightKg": 1.194
+    },
+    "_products": [
+      "Soybean",
+      "Mango"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-2051085345082",
+    "transaction": {
+      "reference": "ORD-2051085345082",
+      "date": "11-Jan-2026",
+      "dispatchDate": "16-Jan-2026",
+      "deliveryDate": "23-Jan-2026"
+    },
+    "customer": {
+      "name": "Kojo Antwi",
+      "email": "kojoantwi27@gmail.com",
+      "phone": "0208208662"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.29,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 94.54,
+        "allocatedWeightKg": 7.94
+      },
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.72,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 115.2,
+        "allocatedWeightKg": 7.94
+      },
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.74,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 17.61,
+        "allocatedWeightKg": 7.94
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23819.0,
+      "totalWeightKg": 23.819
+    },
+    "_products": [
+      "Ginger",
+      "Mango",
+      "Moringa"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-2273440968576",
+    "transaction": {
+      "reference": "ORD-2273440968576",
+      "date": "03-Jan-2026",
+      "dispatchDate": "08-Jan-2026",
+      "deliveryDate": "15-Jan-2026"
+    },
+    "customer": {
+      "name": "Kwabena Oteng",
+      "email": "kwabenaoteng14@gmail.com",
+      "phone": "0537765880"
+    },
+    "delivery": {
+      "status": "Cancelled",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.61,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 97.6,
+        "allocatedWeightKg": 11.951
+      },
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.63,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 14.99,
+        "allocatedWeightKg": 11.951
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23902.0,
+      "totalWeightKg": 23.902
+    },
+    "_products": [
+      "Mango",
+      "Moringa"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-6065108520692",
+    "transaction": {
+      "reference": "ORD-6065108520692",
+      "date": "11-Feb-2026",
+      "dispatchDate": "16-Feb-2026",
+      "deliveryDate": "23-Feb-2026"
+    },
+    "customer": {
+      "name": "Adwoa Asante",
+      "email": "adwoaasante63@gmail.com",
+      "phone": "0204162448"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.2,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 31.8,
+        "allocatedWeightKg": 5.946
+      },
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.67,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 227.8,
+        "allocatedWeightKg": 5.946
+      },
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.49,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 11.66,
+        "allocatedWeightKg": 5.946
+      },
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.56,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 89.6,
+        "allocatedWeightKg": 5.946
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23783.0,
+      "totalWeightKg": 23.783
+    },
+    "_products": [
+      "Cashew nuts",
+      "Soybean",
+      "Moringa",
+      "Mango"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-8310432398360",
+    "transaction": {
+      "reference": "ORD-8310432398360",
+      "date": "28-Feb-2026",
+      "dispatchDate": "05-Mar-2026",
+      "deliveryDate": "12-Mar-2026"
+    },
+    "customer": {
+      "name": "Afia Asante",
+      "email": "afiaasante37@gmail.com",
+      "phone": "0249853639"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.22,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 74.8,
+        "allocatedWeightKg": 7.938
+      },
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.63,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 100.17,
+        "allocatedWeightKg": 7.938
+      },
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.4,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 130.4,
+        "allocatedWeightKg": 7.938
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23813.0,
+      "totalWeightKg": 23.813
+    },
+    "_products": [
+      "Soybean",
+      "Cashew nuts",
+      "Ginger"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-9458350899803",
+    "transaction": {
+      "reference": "ORD-9458350899803",
+      "date": "12-Feb-2026",
+      "dispatchDate": "17-Feb-2026",
+      "deliveryDate": "24-Feb-2026"
+    },
+    "customer": {
+      "name": "Efua Boateng",
+      "email": "efuaboateng95@gmail.com",
+      "phone": "0540114000"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.32,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 7.62,
+        "allocatedWeightKg": 7.864
+      },
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.76,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 120.84,
+        "allocatedWeightKg": 7.864
+      },
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.31,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 105.4,
+        "allocatedWeightKg": 7.864
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23592.0,
+      "totalWeightKg": 23.592
+    },
+    "_products": [
+      "Moringa",
+      "Cashew nuts",
+      "Soybean"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-1662706703079",
+    "transaction": {
+      "reference": "ORD-1662706703079",
+      "date": "07-Jan-2026",
+      "dispatchDate": "12-Jan-2026",
+      "deliveryDate": "19-Jan-2026"
+    },
+    "customer": {
+      "name": "Kwesi Danso",
+      "email": "kwesidanso35@gmail.com",
+      "phone": "0252811388"
+    },
+    "delivery": {
+      "status": "Processing",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.79,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 125.61,
+        "allocatedWeightKg": 5.953
+      },
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.73,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 237.98,
+        "allocatedWeightKg": 5.953
+      },
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.81,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 275.4,
+        "allocatedWeightKg": 5.953
+      },
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.6,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 14.28,
+        "allocatedWeightKg": 5.953
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23812.0,
+      "totalWeightKg": 23.812
+    },
+    "_products": [
+      "Cashew nuts",
+      "Ginger",
+      "Soybean",
+      "Moringa"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-5729376704521",
+    "transaction": {
+      "reference": "ORD-5729376704521",
+      "date": "01-Feb-2026",
+      "dispatchDate": "06-Feb-2026",
+      "deliveryDate": "13-Feb-2026"
+    },
+    "customer": {
+      "name": "Kojo Oppong",
+      "email": "kojooppong26@gmail.com",
+      "phone": "0597854179"
+    },
+    "delivery": {
+      "status": "Pending",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.74,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 118.4,
+        "allocatedWeightKg": 5.95
+      },
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.57,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 90.63,
+        "allocatedWeightKg": 5.95
+      },
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.88,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 286.88,
+        "allocatedWeightKg": 5.95
+      },
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.45,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 153.0,
+        "allocatedWeightKg": 5.95
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23801.0,
+      "totalWeightKg": 23.801
+    },
+    "_products": [
+      "Mango",
+      "Cashew nuts",
+      "Ginger",
+      "Soybean"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-3521812147977",
+    "transaction": {
+      "reference": "ORD-3521812147977",
+      "date": "22-Jan-2026",
+      "dispatchDate": "27-Jan-2026",
+      "deliveryDate": "03-Feb-2026"
+    },
+    "customer": {
+      "name": "Efua Tetteh",
+      "email": "efuatetteh50@gmail.com",
+      "phone": "0539729627"
+    },
+    "delivery": {
+      "status": "Pending",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.56,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 89.6,
+        "allocatedWeightKg": 7.844
+      },
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.6,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 195.6,
+        "allocatedWeightKg": 7.844
+      },
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.29,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 46.11,
+        "allocatedWeightKg": 7.844
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23532.0,
+      "totalWeightKg": 23.532
+    },
+    "_products": [
+      "Mango",
+      "Ginger",
+      "Cashew nuts"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-3132989640934",
+    "transaction": {
+      "reference": "ORD-3132989640934",
+      "date": "20-Jan-2026",
+      "dispatchDate": "25-Jan-2026",
+      "deliveryDate": "01-Feb-2026"
+    },
+    "customer": {
+      "name": "Araba Addo",
+      "email": "arabaaddo38@gmail.com",
+      "phone": "0241057254"
+    },
+    "delivery": {
+      "status": "Pending",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.25,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 40.0,
+        "allocatedWeightKg": 5.955
+      },
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.21,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 71.4,
+        "allocatedWeightKg": 5.955
+      },
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.3,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 7.14,
+        "allocatedWeightKg": 5.955
+      },
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.4,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 63.6,
+        "allocatedWeightKg": 5.955
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23819.0,
+      "totalWeightKg": 23.819
+    },
+    "_products": [
+      "Mango",
+      "Soybean",
+      "Moringa",
+      "Cashew nuts"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-7955148291934",
+    "transaction": {
+      "reference": "ORD-7955148291934",
+      "date": "28-Feb-2026",
+      "dispatchDate": "05-Mar-2026",
+      "deliveryDate": "12-Mar-2026"
+    },
+    "customer": {
+      "name": "Kwaku Osei",
+      "email": "kwakuosei68@gmail.com",
+      "phone": "0252047164"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.89,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 21.18,
+        "allocatedWeightKg": 11.861
+      },
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.75,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 119.25,
+        "allocatedWeightKg": 11.861
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23723.0,
+      "totalWeightKg": 23.723
+    },
+    "_products": [
+      "Moringa",
+      "Cashew nuts"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-9602656985551",
+    "transaction": {
+      "reference": "ORD-9602656985551",
+      "date": "17-Jan-2026",
+      "dispatchDate": "22-Jan-2026",
+      "deliveryDate": "29-Jan-2026"
+    },
+    "customer": {
+      "name": "Kwabena Owusu",
+      "email": "kwabenaowusu9@gmail.com",
+      "phone": "0591498609"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.58,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 13.8,
+        "allocatedWeightKg": 11.945
+      },
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.43,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 68.37,
+        "allocatedWeightKg": 11.945
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23890.0,
+      "totalWeightKg": 23.89
+    },
+    "_products": [
+      "Moringa",
+      "Cashew nuts"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-7284683974338",
+    "transaction": {
+      "reference": "ORD-7284683974338",
+      "date": "07-Feb-2026",
+      "dispatchDate": "12-Feb-2026",
+      "deliveryDate": "19-Feb-2026"
+    },
+    "customer": {
+      "name": "Kofi Antwi",
+      "email": "kofiantwi54@gmail.com",
+      "phone": "0202190966"
+    },
+    "delivery": {
+      "status": "Processing",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.81,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 264.06,
+        "allocatedWeightKg": 7.896
+      },
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.89,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 21.18,
+        "allocatedWeightKg": 7.896
+      },
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.24,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 81.6,
+        "allocatedWeightKg": 7.896
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23687.0,
+      "totalWeightKg": 23.687
+    },
+    "_products": [
+      "Ginger",
+      "Moringa",
+      "Soybean"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-6812442518220",
+    "transaction": {
+      "reference": "ORD-6812442518220",
+      "date": "13-Jan-2026",
+      "dispatchDate": "18-Jan-2026",
+      "deliveryDate": "25-Jan-2026"
+    },
+    "customer": {
+      "name": "Efua Mensah",
+      "email": "efuamensah23@gmail.com",
+      "phone": "0531243507"
+    },
+    "delivery": {
+      "status": "Pending",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.38,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 123.88,
+        "allocatedWeightKg": 5.916
+      },
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.39,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 62.4,
+        "allocatedWeightKg": 5.916
+      },
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.87,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 20.71,
+        "allocatedWeightKg": 5.916
+      },
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.62,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 98.58,
+        "allocatedWeightKg": 5.916
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23663.0,
+      "totalWeightKg": 23.663
+    },
+    "_products": [
+      "Ginger",
+      "Mango",
+      "Moringa",
+      "Cashew nuts"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-3062644906606",
+    "transaction": {
+      "reference": "ORD-3062644906606",
+      "date": "22-Jan-2026",
+      "dispatchDate": "27-Jan-2026",
+      "deliveryDate": "03-Feb-2026"
+    },
+    "customer": {
+      "name": "Nana Antwi",
+      "email": "nanaantwi23@gmail.com",
+      "phone": "0205703806"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.74,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 118.4,
+        "allocatedWeightKg": 11.79
+      },
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.8,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 260.8,
+        "allocatedWeightKg": 11.79
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23579.0,
+      "totalWeightKg": 23.579
+    },
+    "_products": [
+      "Mango",
+      "Ginger"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-1439550646273",
+    "transaction": {
+      "reference": "ORD-1439550646273",
+      "date": "02-Feb-2026",
+      "dispatchDate": "07-Feb-2026",
+      "deliveryDate": "14-Feb-2026"
+    },
+    "customer": {
+      "name": "Akua Quaye",
+      "email": "akuaquaye94@gmail.com",
+      "phone": "0536905750"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.21,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 68.46,
+        "allocatedWeightKg": 11.906
+      },
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.23,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 5.47,
+        "allocatedWeightKg": 11.906
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23812.0,
+      "totalWeightKg": 23.812
+    },
+    "_products": [
+      "Ginger",
+      "Moringa"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-3442573054140",
+    "transaction": {
+      "reference": "ORD-3442573054140",
+      "date": "27-Feb-2026",
+      "dispatchDate": "04-Mar-2026",
+      "deliveryDate": "11-Mar-2026"
+    },
+    "customer": {
+      "name": "Afia Danso",
+      "email": "afiadanso27@gmail.com",
+      "phone": "0536635786"
+    },
+    "delivery": {
+      "status": "Pending",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.66,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 224.4,
+        "allocatedWeightKg": 7.896
+      },
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.52,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 82.68,
+        "allocatedWeightKg": 7.896
+      },
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.83,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 19.75,
+        "allocatedWeightKg": 7.896
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23687.0,
+      "totalWeightKg": 23.687
+    },
+    "_products": [
+      "Soybean",
+      "Cashew nuts",
+      "Moringa"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-6720129678770",
+    "transaction": {
+      "reference": "ORD-6720129678770",
+      "date": "20-Jan-2026",
+      "dispatchDate": "25-Jan-2026",
+      "deliveryDate": "01-Feb-2026"
+    },
+    "customer": {
+      "name": "Kwesi Acheampong",
+      "email": "kwesiacheampong4@gmail.com",
+      "phone": "0208642534"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.56,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 190.4,
+        "allocatedWeightKg": 5.938
+      },
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.62,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 202.12,
+        "allocatedWeightKg": 5.938
+      },
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.72,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 17.14,
+        "allocatedWeightKg": 5.938
+      },
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.77,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 123.2,
+        "allocatedWeightKg": 5.938
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23752.0,
+      "totalWeightKg": 23.752
+    },
+    "_products": [
+      "Soybean",
+      "Ginger",
+      "Moringa",
+      "Mango"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-2515591731628",
+    "transaction": {
+      "reference": "ORD-2515591731628",
+      "date": "27-Feb-2026",
+      "dispatchDate": "04-Mar-2026",
+      "deliveryDate": "11-Mar-2026"
+    },
+    "customer": {
+      "name": "Efua Oteng",
+      "email": "efuaoteng72@gmail.com",
+      "phone": "0206584690"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.83,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 270.58,
+        "allocatedWeightKg": 5.976
+      },
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.78,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 18.56,
+        "allocatedWeightKg": 5.976
+      },
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.85,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 136.0,
+        "allocatedWeightKg": 5.976
+      },
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.88,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 299.2,
+        "allocatedWeightKg": 5.976
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23902.0,
+      "totalWeightKg": 23.902
+    },
+    "_products": [
+      "Ginger",
+      "Moringa",
+      "Mango",
+      "Soybean"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-3947324204339",
+    "transaction": {
+      "reference": "ORD-3947324204339",
+      "date": "11-Feb-2026",
+      "dispatchDate": "16-Feb-2026",
+      "deliveryDate": "23-Feb-2026"
+    },
+    "customer": {
+      "name": "Abena Oteng",
+      "email": "abenaoteng42@gmail.com",
+      "phone": "0542929923"
+    },
+    "delivery": {
+      "status": "Pending",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.82,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 131.2,
+        "allocatedWeightKg": 11.796
+      },
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.72,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 234.72,
+        "allocatedWeightKg": 11.796
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23592.0,
+      "totalWeightKg": 23.592
+    },
+    "_products": [
+      "Mango",
+      "Ginger"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-2692359341352",
+    "transaction": {
+      "reference": "ORD-2692359341352",
+      "date": "02-Jan-2026",
+      "dispatchDate": "07-Jan-2026",
+      "deliveryDate": "14-Jan-2026"
+    },
+    "customer": {
+      "name": "Ewurama Tetteh",
+      "email": "ewuramatetteh28@gmail.com",
+      "phone": "0252774516"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.57,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 185.82,
+        "allocatedWeightKg": 11.917
+      },
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.57,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 90.63,
+        "allocatedWeightKg": 11.917
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23834.0,
+      "totalWeightKg": 23.834
+    },
+    "_products": [
+      "Ginger",
+      "Cashew nuts"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-3885506705321",
+    "transaction": {
+      "reference": "ORD-3885506705321",
+      "date": "28-Jan-2026",
+      "dispatchDate": "02-Feb-2026",
+      "deliveryDate": "09-Feb-2026"
+    },
+    "customer": {
+      "name": "Afia Bedford",
+      "email": "afiabedford89@gmail.com",
+      "phone": "0536038526"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.88,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 299.2,
+        "allocatedWeightKg": 5.97
+      },
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.59,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 192.34,
+        "allocatedWeightKg": 5.97
+      },
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.39,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 9.28,
+        "allocatedWeightKg": 5.97
+      },
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.46,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 73.6,
+        "allocatedWeightKg": 5.97
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23878.0,
+      "totalWeightKg": 23.878
+    },
+    "_products": [
+      "Soybean",
+      "Ginger",
+      "Moringa",
+      "Mango"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-7509104202976",
+    "transaction": {
+      "reference": "ORD-7509104202976",
+      "date": "25-Feb-2026",
+      "dispatchDate": "02-Mar-2026",
+      "deliveryDate": "09-Mar-2026"
+    },
+    "customer": {
+      "name": "Ama Asante",
+      "email": "amaasante75@gmail.com",
+      "phone": "0200575320"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.78,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 124.02,
+        "allocatedWeightKg": 11.844
+      },
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.27,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 43.2,
+        "allocatedWeightKg": 11.844
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23687.0,
+      "totalWeightKg": 23.687
+    },
+    "_products": [
+      "Cashew nuts",
+      "Mango"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-3087503718416",
+    "transaction": {
+      "reference": "ORD-3087503718416",
+      "date": "25-Jan-2026",
+      "dispatchDate": "30-Jan-2026",
+      "deliveryDate": "06-Feb-2026"
+    },
+    "customer": {
+      "name": "Adjoa Tetteh",
+      "email": "adjoatetteh26@gmail.com",
+      "phone": "0546014311"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.52,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 12.38,
+        "allocatedWeightKg": 5.955
+      },
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.71,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 241.4,
+        "allocatedWeightKg": 5.955
+      },
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.88,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 286.88,
+        "allocatedWeightKg": 5.955
+      },
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.52,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 83.2,
+        "allocatedWeightKg": 5.955
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23820.0,
+      "totalWeightKg": 23.82
+    },
+    "_products": [
+      "Moringa",
+      "Soybean",
+      "Ginger",
+      "Mango"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-1585249468832",
+    "transaction": {
+      "reference": "ORD-1585249468832",
+      "date": "12-Feb-2026",
+      "dispatchDate": "17-Feb-2026",
+      "deliveryDate": "24-Feb-2026"
+    },
+    "customer": {
+      "name": "Kwaku Boadi",
+      "email": "kwakuboadi31@gmail.com",
+      "phone": "0205455906"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.6,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 96.0,
+        "allocatedWeightKg": 11.892
+      },
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.21,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 33.39,
+        "allocatedWeightKg": 11.892
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23783.0,
+      "totalWeightKg": 23.783
+    },
+    "_products": [
+      "Mango",
+      "Cashew nuts"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-6995578059518",
+    "transaction": {
+      "reference": "ORD-6995578059518",
+      "date": "03-Feb-2026",
+      "dispatchDate": "08-Feb-2026",
+      "deliveryDate": "15-Feb-2026"
+    },
+    "customer": {
+      "name": "Kojo Amoah",
+      "email": "kojoamoah35@gmail.com",
+      "phone": "0252763640"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.89,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 302.6,
+        "allocatedWeightKg": 7.94
+      },
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.76,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 121.6,
+        "allocatedWeightKg": 7.94
+      },
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.25,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 39.75,
+        "allocatedWeightKg": 7.94
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23819.0,
+      "totalWeightKg": 23.819
+    },
+    "_products": [
+      "Soybean",
+      "Mango",
+      "Cashew nuts"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-8965456988623",
+    "transaction": {
+      "reference": "ORD-8965456988623",
+      "date": "17-Jan-2026",
+      "dispatchDate": "22-Jan-2026",
+      "deliveryDate": "29-Jan-2026"
+    },
+    "customer": {
+      "name": "Afia Acheampong",
+      "email": "afiaacheampong41@gmail.com",
+      "phone": "0531224493"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.77,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 122.43,
+        "allocatedWeightKg": 7.844
+      },
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.54,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 176.04,
+        "allocatedWeightKg": 7.844
+      },
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.23,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 36.8,
+        "allocatedWeightKg": 7.844
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23532.0,
+      "totalWeightKg": 23.532
+    },
+    "_products": [
+      "Cashew nuts",
+      "Ginger",
+      "Mango"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-9092716535430",
+    "transaction": {
+      "reference": "ORD-9092716535430",
+      "date": "01-Jan-2026",
+      "dispatchDate": "06-Jan-2026",
+      "deliveryDate": "13-Jan-2026"
+    },
+    "customer": {
+      "name": "Efua Agyeman",
+      "email": "efuaagyeman67@gmail.com",
+      "phone": "0595166502"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Moringa Leaf Powder – Certified Organic",
+        "qty": 0.85,
+        "unit": "kg",
+        "unitPrice": 23.8,
+        "lineTotal": 20.23,
+        "allocatedWeightKg": 7.864
+      },
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.72,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 114.48,
+        "allocatedWeightKg": 7.864
+      },
+      {
+        "description": "Dried Ginger Root (High Oil Content)",
+        "qty": 0.32,
+        "unit": "kg",
+        "unitPrice": 326.0,
+        "lineTotal": 104.32,
+        "allocatedWeightKg": 7.864
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23592.0,
+      "totalWeightKg": 23.592
+    },
+    "_products": [
+      "Moringa",
+      "Cashew nuts",
+      "Ginger"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-2664622009460",
+    "transaction": {
+      "reference": "ORD-2664622009460",
+      "date": "08-Feb-2026",
+      "dispatchDate": "13-Feb-2026",
+      "deliveryDate": "20-Feb-2026"
+    },
+    "customer": {
+      "name": "Kwaku Ofori",
+      "email": "kwakuofori69@gmail.com",
+      "phone": "0248488279"
+    },
+    "delivery": {
+      "status": "Delivered",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.33,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 52.47,
+        "allocatedWeightKg": 11.957
+      },
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.67,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 107.2,
+        "allocatedWeightKg": 11.957
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23913.0,
+      "totalWeightKg": 23.913
+    },
+    "_products": [
+      "Cashew nuts",
+      "Mango"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-9322235290271",
+    "transaction": {
+      "reference": "ORD-9322235290271",
+      "date": "02-Jan-2026",
+      "dispatchDate": "07-Jan-2026",
+      "deliveryDate": "14-Jan-2026"
+    },
+    "customer": {
+      "name": "Abena Agyeman",
+      "email": "abenaagyeman50@gmail.com",
+      "phone": "0597897901"
+    },
+    "delivery": {
+      "status": "Processing",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Non-GMO Soybeans – Export Grade",
+        "qty": 0.33,
+        "unit": "kg",
+        "unitPrice": 340.0,
+        "lineTotal": 112.2,
+        "allocatedWeightKg": 11.906
+      },
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.3,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 48.0,
+        "allocatedWeightKg": 11.906
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23812.0,
+      "totalWeightKg": 23.812
+    },
+    "_products": [
+      "Soybean",
+      "Mango"
+    ]
+  },
+  {
+    "company": {
+      "name": "ASAJ Company Limited",
+      "subtitle": "ASAJ Commercial Invoice"
+    },
+    "invoiceNumber": "INV-ORD-8684320689083",
+    "transaction": {
+      "reference": "ORD-8684320689083",
+      "date": "25-Jan-2026",
+      "dispatchDate": "30-Jan-2026",
+      "deliveryDate": "06-Feb-2026"
+    },
+    "customer": {
+      "name": "Abena Danso",
+      "email": "abenadanso79@gmail.com",
+      "phone": "0532853225"
+    },
+    "delivery": {
+      "status": "Pending",
+      "type": "Export shipment"
+    },
+    "currency": "GHS",
+    "items": [
+      {
+        "description": "Premium Raw Cashew Nuts – Grade W240",
+        "qty": 0.32,
+        "unit": "kg",
+        "unitPrice": 159.0,
+        "lineTotal": 50.88,
+        "allocatedWeightKg": 11.906
+      },
+      {
+        "description": "Fresh Mango – Export Grade",
+        "qty": 0.74,
+        "unit": "kg",
+        "unitPrice": 160.0,
+        "lineTotal": 118.4,
+        "allocatedWeightKg": 11.906
+      }
+    ],
+    "notes": "All goods inspected and certified for international export. Certificate of origin available on request.",
+    "_source": {
+      "weight_g": 23812.0,
+      "totalWeightKg": 23.812
+    },
+    "_products": [
+      "Cashew nuts",
+      "Mango"
+    ]
+  }
+]
